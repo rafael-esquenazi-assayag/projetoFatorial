@@ -1,5 +1,5 @@
 public class Fatorial {
-	// Versao iterativa do cálculo do fatorial
+	// Versao iterativa do cálculo do fatorial, incluindo o teste para teste = 0
 	/*
 	public static void main(String[] args) {
 		System.out.println(calcularFatorial(5));
